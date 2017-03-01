@@ -1,7 +1,7 @@
 {
   "name": "algebra-solver",
   "version": "1.0.0",
-  "description": "A module that solves algebra problems",
+  "description": "A module that parses and solves algebra problems",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha"
